@@ -101,11 +101,11 @@ export const HeroLottie: React.FC<HeroLottieProps> = ({
               <rect x="60" y="210" width="300" height="60" rx="30" fill="var(--color-surface-2)" stroke="var(--color-border)" strokeWidth="2" />
               <circle cx="110" cy="240" r="14" fill="var(--color-primary-light)" />
               <path d="M104 240 L109 245 L116 235" stroke="var(--color-primary)" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" />
-              <text x="136" y="245" fill="var(--color-text)" fontSize="13" fontWeight="700" fontFamily="Poppins, sans-serif">
+              <text x="136" y="245" fill="var(--color-text)" fontSize="13" fontWeight="700" fontFamily="'Space Grotesk', sans-serif">
                 xpense-cloud.in Active Sync
               </text>
               <rect x="290" y="228" width="54" height="24" rx="12" fill="var(--color-primary)" />
-              <text x="303" y="244" fill="#FFFFFF" fontSize="10" fontWeight="800" fontFamily="Poppins, sans-serif">
+              <text x="303" y="244" fill="#FFFFFF" fontSize="10" fontWeight="800" fontFamily="'Space Grotesk', sans-serif">
                 LIVE
               </text>
 
@@ -117,14 +117,14 @@ export const HeroLottie: React.FC<HeroLottieProps> = ({
                 <circle cx="165" cy="30" r="8" fill="var(--color-accent)" opacity="0.6" />
                 <circle cx="175" cy="30" r="8" fill="var(--color-primary)" opacity="0.8" />
                 
-                <text x="18" y="74" fill="var(--color-text-secondary)" fontSize="10" fontWeight="600" fontFamily="Poppins, sans-serif">
+                <text x="18" y="74" fill="var(--color-text-secondary)" fontSize="10" fontWeight="600" fontFamily="'Space Grotesk', sans-serif">
                   Monthly Cashflow
                 </text>
-                <text x="18" y="100" fill="var(--color-text)" fontSize="20" fontWeight="800" fontFamily="Poppins, sans-serif">
+                <text x="18" y="100" fill="var(--color-text)" fontSize="20" fontWeight="800" fontFamily="'Space Grotesk', sans-serif">
                   $4,850.00
                 </text>
                 <rect x="120" y="85" width="62" height="18" rx="9" fill="var(--color-primary-light)" />
-                <text x="128" y="98" fill="var(--color-primary)" fontSize="9" fontWeight="700" fontFamily="Poppins, sans-serif">
+                <text x="128" y="98" fill="var(--color-success)" fontSize="9" fontWeight="700" fontFamily="'Space Grotesk', sans-serif">
                   +18.4% ↗
                 </text>
               </g>
@@ -133,7 +133,7 @@ export const HeroLottie: React.FC<HeroLottieProps> = ({
               <g transform="translate(50, 95)" className="animate-float" style={{ animationDelay: '1s' }}>
                 <rect width="105" height="34" rx="17" fill="var(--color-surface)" stroke="var(--color-border)" strokeWidth="1.5" filter="drop-shadow(0 6px 14px rgba(0,0,0,0.06))" />
                 <circle cx="17" cy="17" r="7" fill="var(--color-primary)" />
-                <text x="32" y="21" fill="var(--color-text)" fontSize="11" fontWeight="700" fontFamily="Poppins, sans-serif">
+                <text x="32" y="21" fill="var(--color-text)" fontSize="11" fontWeight="700" fontFamily="'Space Grotesk', sans-serif">
                   Android &amp; iOS
                 </text>
               </g>
@@ -141,7 +141,7 @@ export const HeroLottie: React.FC<HeroLottieProps> = ({
               <g transform="translate(265, 140)" className="animate-float" style={{ animationDelay: '2s' }}>
                 <rect width="115" height="34" rx="17" fill="var(--color-surface)" stroke="var(--color-border)" strokeWidth="1.5" filter="drop-shadow(0 6px 14px rgba(0,0,0,0.06))" />
                 <circle cx="17" cy="17" r="7" fill="var(--color-primary-hover)" />
-                <text x="32" y="21" fill="var(--color-text)" fontSize="11" fontWeight="700" fontFamily="Poppins, sans-serif">
+                <text x="32" y="21" fill="var(--color-text)" fontSize="11" fontWeight="700" fontFamily="'Space Grotesk', sans-serif">
                   Web Dashboard
                 </text>
               </g>
